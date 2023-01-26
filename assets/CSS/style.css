@@ -9,6 +9,7 @@ body {
     background-color: rgb(248, 245, 250);
     font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
+    overflow: hidden;
 }
 
 
@@ -45,7 +46,7 @@ footer {
     font-size: 20px;
 }
 
-h1 {
+h1,section,button {
     text-align: center;
     padding:0;
     font-size: 65px;
@@ -79,7 +80,7 @@ form {
 }
 
 button {
-    font-size: 20px;
+    font-size: 18px;
     text-align: center;
     border-radius: 10px;
     padding: 10px;
@@ -104,4 +105,10 @@ img {
     width: 700px;
 
 
+}
+
+li .input-fields {
+    height: 25px;
+    width: 50px;
+    
 }
