@@ -97,6 +97,11 @@ button {
 
 }
 
+button:hover{
+    color: black;
+    background-color:rgb(197, 202, 220) ;
+}
+
 li {
     list-style-type: none;
 }
