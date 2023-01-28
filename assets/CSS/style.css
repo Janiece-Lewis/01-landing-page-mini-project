@@ -36,7 +36,7 @@ body {
     padding: 40px;
     font-weight: 600;
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 30px;
+    font-size: 20pt;
     text-decoration: none;
 
 
@@ -51,13 +51,17 @@ footer {
     font-size: 20px;
 }
 
+.navbar a:hover{
+    color:rgb(156, 214, 237, 0.997); 
+}
+
 
 h1,
 section,
 button {
     text-align: center;
     padding: 0;
-    font-size: 65px;
+    font-size: 45pt;
     color: rgba(36, 40, 42, 0.997);
 }
 
